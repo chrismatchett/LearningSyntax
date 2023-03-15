@@ -5,12 +5,12 @@ public class LearningSyntax
   {
           //Console.WriteLine("Hello World!");
           //Files.output();
-          Methods.output();
+          // Methods.output();
           //Objects.output();
           //PerformingOperations.output();
           //Statements.output();
           //StoringValues.output();
-          //Strings.output();
+          Strings.output();
   }
 }
 
